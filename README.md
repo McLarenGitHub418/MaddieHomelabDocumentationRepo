@@ -1,4 +1,4 @@
-🌐 The Maddie Homelab: Enterprise-Grade Infrastructure in an IKEA LACK Frame
+The Maddie Homelab: Enterprise-Grade Infrastructure in an IKEA LACK Frame
 
 Welcome to the documentation repository for the Maddie Homelab. This project is a dual-site, highly redundant, and fully documented personal network infrastructure. It is built to simulate enterprise storage topologies, containerized virtualization environments, and disaster-resilient systems on a budget.
 Key Highlights:
